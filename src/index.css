@@ -1,0 +1,10 @@
+:root {
+    --global-theme:{
+      background-color: color(black l(15%));
+      color: white;
+    } 
+  }
+  
+html {
+    @apply --global-theme
+  }
