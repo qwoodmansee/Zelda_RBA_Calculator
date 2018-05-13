@@ -10,7 +10,7 @@ const Index = () => {
       <br/>
       <h2>In progress components:</h2>
       <h3>InventoryItem:</h3>
-      <InventoryItem itemName="Bombchu" itemValue={5}/>
+      <InventoryItem itemName="Bombchu" itemCount={29}/>
       <br/>
       <h3>Inventory:</h3> 
       <Inventory/>

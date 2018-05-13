@@ -1,0 +1,11 @@
+.item-count { 
+    /* font styling */
+    color: white;
+    font-size: smaller;
+    font-weight: bold;
+
+    /* positioning (to put number right on item */
+    position: relative;
+    margin-top: -1em;
+    margin-left: 1.2em;
+}
